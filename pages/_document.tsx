@@ -15,7 +15,11 @@ export default class MyDocument extends Document {
               sizes='32x32'
               href='/I-miss-you-Drawception.png'
             />
-
+            <link
+              href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css'
+              rel='stylesheet'
+              type='text/css'
+            />
             <link rel='manifest' href='/manifest.json' />
           </Head>
 
