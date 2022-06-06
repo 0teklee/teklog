@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '973d2eecb6de4b739edd55f1ed689efc',
+  rootNotionPageId: 'Tek-Log-b614e78a222d43248c301100f0f16b99',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
